@@ -18,7 +18,7 @@ My name is Gianmaria Romano, and I am a third-year student of "Applied Computer 
 
 - Python 🐍
 - Java ☕
-- Latex 🟰
+- LaTeX 🟰
 - R 📻
 - C 💾
 
