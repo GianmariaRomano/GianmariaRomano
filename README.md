@@ -32,7 +32,7 @@ My name is Gianmaria Romano, and I am a third-year student of "Applied Computer 
 
 ---
 
-## 🌊 Kokoro
+## 🌊 心
 
 > *「朝のリレー」*  
 >  
@@ -60,3 +60,12 @@ My name is Gianmaria Romano, and I am a third-year student of "Applied Computer 
 <p align="center">
   <img src="./great-wave.jpg" alt="The Great Wave off Kanagawa" width="400"/>
 </p>
+
+---
+
+## 🎼 音楽
+
+> [Where words fail, music speaks](https://open.spotify.com/user/vkrikfnlp7acexrfphvjq3yio?si=wr0qdmWBRuOnF1cpAmsmig)
+> — Hans Christian Andersen
+
+---
