@@ -32,6 +32,17 @@ My name is Gianmaria Romano, and I am a third-year student of "Applied Computer 
 
 ---
 
+## 💮 花
+
+> *I wonder sometimes...  
+> If dried flowers like being forced to last like that?*
+
+<p align="center">
+  <img src="[https://media.giphy.com/media/XXXXXXXX/giphy.gif](https://tenor.com/en-GB/view/flowers-images-gif-26197553)" width="400" />
+</p>
+
+---
+
 ## 🌊 心
 
 > *「朝のリレー」*  
@@ -65,23 +76,11 @@ My name is Gianmaria Romano, and I am a third-year student of "Applied Computer 
 
 ## 🎼 音楽
 
-> *I wonder sometimes...  
-> If dried flowers like being forced to last like that?*
-
 <p align="center">
-  <a href="https://open.spotify.com/track/0pUVeEgZuNyFzIMKp67RbS">
-    <img src="https://upload.wikimedia.org/wikipedia/en/1/1b/BillyIdolRebelYell.jpg" width="300" />
-  </a>
-</p>
-
-<p align="center">
-  🎧 <strong>Currently vibing to</strong><br>
-  <em>Eyes Without a Face – Billy Idol</em>
-</p>
-
-<p align="center">
-  <a href="https://open.spotify.com/track/0pUVeEgZuNyFzIMKp67RbS">
-    <img src="https://img.shields.io/badge/Spotify-Listen-1DB954?logo=spotify&logoColor=white" />
+  <a href="[https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID](https://open.spotify.com/user/vkrikfnlp7acexrfphvjq3yio?si=dyXyf30HS8CDS7KSQ1opJQ)" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/en/1/1b/BillyIdolRebelYell.jpg"
+         width="300"
+         alt="Spotify profile" />
   </a>
 </p>
 
