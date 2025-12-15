@@ -69,4 +69,16 @@ My name is Gianmaria Romano, and I am a third-year student of "Applied Computer 
 >
 > [![Spotify](https://img.shields.io/badge/Spotify-Listen-green?logo=spotify)]([https://open.spotify.com/track/XXXXXXXX](https://open.spotify.com/track/0pUVeEgZuNyFzIMKp67RbS?si=8W8LuWjRQf2XkIU6Br0o9A))
 
+<p align="center">
+  <a href="[https://open.spotify.com/track/XXXXXXXX](https://open.spotify.com/track/0pUVeEgZuNyFzIMKp67RbS?si=8W8LuWjRQf2XkIU6Br0o9A)">
+    <img src="[https://i.scdn.co/image/ab67616d0000b273XXXXXXXXXXXX](https://upload.wikimedia.org/wikipedia/en/1/1b/BillyIdolRebelYell.jpg)" width="300" />
+  </a>
+</p>
+
+<p align="center">
+  🎧 <strong>Currently vibing to</strong><br>
+  <em>Eyes Without a Face – Billy Idol</em>
+</p>
+
+
 ---
