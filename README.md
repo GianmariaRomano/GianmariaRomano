@@ -39,7 +39,7 @@ My name is Gianmaria Romano, and I am a third-year student of "Applied Computer 
 
 <p align="center">
   <img src="https://tenor.com/view/flowers-images-gif-26197553.gif" width="250" />
-  <img src="./spfc.png" width="250" />
+  <img src="./l.jpeg" width="250" />
 </p>
 
 ---
@@ -86,7 +86,7 @@ My name is Gianmaria Romano, and I am a third-year student of "Applied Computer 
 </p>
 
 <p align="center">
-  🎧 <em>Playlists, fragments, repetitions</em>
+  🎧 <em>pressed between days, music learns how to last.</em>
 </p>
 
 ---
