@@ -65,8 +65,8 @@ My name is Gianmaria Romano, and I am a third-year student of "Applied Computer 
 
 ## 🎼 音楽
 
-> [Where words fail, music speaks](https://open.spotify.com/user/vkrikfnlp7acexrfphvjq3yio?si=wr0qdmWBRuOnF1cpAmsmig)
-> 
-> — Hans Christian Andersen
+> I wonder sometimes... If dried flowers like being forced to last like that?
+>
+> [![Spotify](https://img.shields.io/badge/Spotify-Listen-green?logo=spotify)]([https://open.spotify.com/track/XXXXXXXX](https://open.spotify.com/track/0pUVeEgZuNyFzIMKp67RbS?si=8W8LuWjRQf2XkIU6Br0o9A))
 
 ---
