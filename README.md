@@ -65,13 +65,12 @@ My name is Gianmaria Romano, and I am a third-year student of "Applied Computer 
 
 ## 🎼 音楽
 
-> I wonder sometimes... If dried flowers like being forced to last like that?
->
-> [![Spotify](https://img.shields.io/badge/Spotify-Listen-green?logo=spotify)]([https://open.spotify.com/track/XXXXXXXX](https://open.spotify.com/track/0pUVeEgZuNyFzIMKp67RbS?si=8W8LuWjRQf2XkIU6Br0o9A))
+> *I wonder sometimes...  
+> If dried flowers like being forced to last like that?*
 
 <p align="center">
-  <a href="[https://open.spotify.com/track/XXXXXXXX](https://open.spotify.com/track/0pUVeEgZuNyFzIMKp67RbS?si=8W8LuWjRQf2XkIU6Br0o9A)">
-    <img src="[https://i.scdn.co/image/ab67616d0000b273XXXXXXXXXXXX](https://upload.wikimedia.org/wikipedia/en/1/1b/BillyIdolRebelYell.jpg)" width="300" />
+  <a href="https://open.spotify.com/track/0pUVeEgZuNyFzIMKp67RbS">
+    <img src="https://upload.wikimedia.org/wikipedia/en/1/1b/BillyIdolRebelYell.jpg" width="300" />
   </a>
 </p>
 
@@ -80,5 +79,10 @@ My name is Gianmaria Romano, and I am a third-year student of "Applied Computer 
   <em>Eyes Without a Face – Billy Idol</em>
 </p>
 
+<p align="center">
+  <a href="https://open.spotify.com/track/0pUVeEgZuNyFzIMKp67RbS">
+    <img src="https://img.shields.io/badge/Spotify-Listen-1DB954?logo=spotify&logoColor=white" />
+  </a>
+</p>
 
 ---
