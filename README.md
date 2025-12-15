@@ -38,7 +38,8 @@ My name is Gianmaria Romano, and I am a third-year student of "Applied Computer 
 > If dried flowers like being forced to last like that?*
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/XXXXXXXX/giphy.gif](https://tenor.com/en-GB/view/flowers-images-gif-26197553)" width="400" />
+  <img src="https://tenor.com/view/flowers-images-gif-26197553.gif" width="250" />
+  <img src="./spfc.png" width="250" />
 </p>
 
 ---
@@ -77,11 +78,15 @@ My name is Gianmaria Romano, and I am a third-year student of "Applied Computer 
 ## 🎼 音楽
 
 <p align="center">
-  <a href="[https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID](https://open.spotify.com/user/vkrikfnlp7acexrfphvjq3yio?si=dyXyf30HS8CDS7KSQ1opJQ)" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/en/1/1b/BillyIdolRebelYell.jpg"
+  <a href="https://open.spotify.com/user/vkrikfnlp7acexrfphvjq3yio" target="_blank">
+    <img src="./spfc.png"
          width="300"
-         alt="Spotify profile" />
+         alt="Spotify Profile" />
   </a>
+</p>
+
+<p align="center">
+  🎧 <em>Playlists, fragments, repetitions</em>
 </p>
 
 ---
