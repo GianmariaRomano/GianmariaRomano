@@ -37,10 +37,16 @@ My name is Gianmaria Romano, and I am a third-year student of "Applied Computer 
 > *I wonder sometimes...  
 > If dried flowers like being forced to last like that?*
 
-<p align="center">
-  <img src="https://tenor.com/view/flowers-images-gif-26197553.gif" width="250" />
-  <img src="./l.jpeg" width="250" />
-</p>
+<table align="center">
+  <tr>
+    <td style="vertical-align: middle;">
+      <img src="https://tenor.com/view/flowers-images-gif-26197553.gif" width="300" />
+    </td>
+    <td style="vertical-align: middle;">
+      <img src="./lily.png" width="180" />
+    </td>
+  </tr>
+</table>
 
 ---
 
