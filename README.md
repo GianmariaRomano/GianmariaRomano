@@ -32,18 +32,6 @@ My name is Gianmaria Romano, and I am a third-year student of "Applied Computer 
 
 ---
 
-## 💮 花
-
-> *I wonder sometimes...  
-> If dried flowers like being forced to last like that?*
-
-<p align="center">
-  <img src="https://tenor.com/view/flowers-images-gif-26197553.gif" width="250" />
-  <img src="./lily.png" width="250" />
-</p>
-
----
-
 ## 🌊 心
 
 > *「朝のリレー」*  
@@ -86,7 +74,7 @@ My name is Gianmaria Romano, and I am a third-year student of "Applied Computer 
 </p>
 
 <p align="center">
-  🎧 <em>pressed between days, music learns how to last.</em>
+  🎧 <em>Pressed between days, music learns how to last.</em>
 </p>
 
 ---
