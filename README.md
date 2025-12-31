@@ -26,9 +26,13 @@ My name is Gianmaria Romano, and I am a third-year student at **Sapienza Univers
 
 ## 📊 GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=GianmariaRomano&show_icons=true&theme=radical&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GianmariaRomano&layout=compact)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GianmariaRomano&theme=gruvbox)
+![Gianmaria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GianmariaRomano&show_icons=true&theme=radical&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GianmariaRomano&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GianmariaRomano&theme=radical&hide_border=true)
+
+<!-- ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=GianmariaRomano&show_icons=true&theme=radical&count_private=true) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GianmariaRomano&layout=compact) -->
+<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GianmariaRomano&theme=gruvbox) -->
 
 ---
 
