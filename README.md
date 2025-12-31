@@ -23,20 +23,18 @@ My name is Gianmaria Romano, and I am a third-year student at **Sapienza Univers
 - C 💾
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Overall stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=GianmariaRomano&show_icons=true&theme=synthwave"
      alt="Gianmaria's GitHub Stats" width="320"/>
 
-  <!-- Top languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GianmariaRomano&layout=compact&theme=synthwave"
      alt="Top Languages" width="320"/>
 </p>
-
 ---
+-->
 
 ## 🌊 心
 
