@@ -1,12 +1,12 @@
 ## Hi there!
 
-My name is Gianmaria Romano, and I am a third-year student of "Applied Computer Science and Artificial Intelligence" at Sapienza Università di Roma.
+My name is Gianmaria Romano, and I am a third-year student at **Sapienza Università di Roma**, currently studying for may Bachelor's Degree in *Applied Computer Science and Artificial Intelligence*.
 
 ---
 
 ## 📍 About Me
 
-📚 **Interests:**
+📚 **Research interests:**
 
 - Computer Vision 📸
 - Data Analysis 📈
