@@ -27,11 +27,13 @@ My name is Gianmaria Romano, and I am a third-year student at **Sapienza Univers
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GianmariaRomano&show_icons=true&theme=radical&count_private=true" 
-       alt="Gianmaria's GitHub Stats" width="350"/>
+  <!-- Overall stats (public repos only) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=GianmariaRomano&show_icons=true&theme=radical"
+       alt="Gianmaria's GitHub Stats" width="320" style="margin-right: 10px;"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GianmariaRomano&layout=compact" 
-       alt="Top Languages" width="350"/>
+  <!-- Top languages (public repos only) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GianmariaRomano&layout=compact"
+       alt="Top Languages" width="320" style="margin-left: 10px;"/>
 </p>
 
 ---
