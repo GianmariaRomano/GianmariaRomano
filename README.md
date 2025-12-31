@@ -26,13 +26,16 @@ My name is Gianmaria Romano, and I am a third-year student at **Sapienza Univers
 
 ## 📊 GitHub Stats
 
-![Gianmaria's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GianmariaRomano&show_icons=true&theme=radical&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GianmariaRomano&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GianmariaRomano&theme=radical&hide_border=true)
+<p align="center">
+  <!-- Overall stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=GianmariaRomano&show_icons=true&theme=radical&count_private=true" alt="Gianmaria's GitHub Stats" width="350"/>
 
-<!-- ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=GianmariaRomano&show_icons=true&theme=radical&count_private=true) -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GianmariaRomano&layout=compact) -->
-<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=GianmariaRomano&theme=gruvbox) -->
+  <!-- Top languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GianmariaRomano&layout=compact" alt="Top Languages" width="350"/>
+
+  <!-- Streak stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=GianmariaRomano&theme=gruvbox" alt="GitHub Streak" width="350"/>
+</p>
 
 ---
 
