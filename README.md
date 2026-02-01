@@ -1,6 +1,6 @@
 ## Hi there!
 
-My name is Gianmaria Romano, and I am a third-year student at **Sapienza Università di Roma**, currently studying for my Bachelor's Degree in *Applied Computer Science and Artificial Intelligence*.
+My name is Gianmaria Romano, and I am a third-year undergraduate student at **Sapienza Università di Roma**, currently pursuing a Bachelor's Degree in *Applied Computer Science and Artificial Intelligence*.
 
 ---
 
