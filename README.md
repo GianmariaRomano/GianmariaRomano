@@ -49,10 +49,6 @@ My name is Gianmaria Romano, and I am a third-year undergraduate student at **Sa
 >  
 > — ⾕川俊太郎
 
-<p align="center">
-  <img src="./great-wave.jpg" alt="The Great Wave off Kanagawa" width="400"/>
-</p>
-
 ---
 
 ## 💮🖤
