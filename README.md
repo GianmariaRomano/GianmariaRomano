@@ -23,18 +23,6 @@ My name is Gianmaria Romano, and I am a third-year undergraduate student at **Sa
 - C 💾
 
 ---
-<!--
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GianmariaRomano&show_icons=true&theme=synthwave"
-     alt="Gianmaria's GitHub Stats" width="320"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GianmariaRomano&layout=compact&theme=synthwave"
-     alt="Top Languages" width="320"/>
-</p>
----
--->
 
 ## 🌊 心
 
@@ -63,6 +51,16 @@ My name is Gianmaria Romano, and I am a third-year undergraduate student at **Sa
 
 <p align="center">
   <img src="./great-wave.jpg" alt="The Great Wave off Kanagawa" width="400"/>
+</p>
+
+---
+
+## 💮🖤
+
+> I wonder sometimes... If dried flowers like being forced to last like that?
+
+<p align="center">
+  <img src="./lily.jped" alt="Lillith" width="400"/>
 </p>
 
 ---
