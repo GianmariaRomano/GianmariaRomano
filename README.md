@@ -53,7 +53,7 @@ My name is Gianmaria Romano, and I am a third-year undergraduate student at **Sa
 
 ## 💮🖤
 
-> I wonder sometimes... If dried flowers like being forced to last like that?
+> *I wonder sometimes... If dried flowers like being forced to last like that?*
 
 <p align="center">
   <img src="./lily.jpeg" alt="Lillith" width="400"/>
