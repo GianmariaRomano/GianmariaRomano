@@ -65,7 +65,7 @@ My name is Gianmaria Romano, and I am a third-year undergraduate student at **Sa
 
 <p align="center">
   <a href="https://open.spotify.com/album/2HfY1kPSmmYfR13OSKYH5T?si=sWzc2o3pRCqsAvrYjCU3GA">
-    <img src="https://upload.wikimedia.org/wikipedia/en/4/4b/Kenshi_Yonezu_-_Lost_Corner.png" width="300">
+    <img src="https://upload.wikimedia.org/wikipedia/en/0/0c/Kenshi_Yonezu_-_Lost_Corner.png" width="300">
   </a>
 </p>
 
