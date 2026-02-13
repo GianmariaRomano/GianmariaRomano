@@ -24,7 +24,7 @@ My name is Gianmaria Romano, and I am a third-year undergraduate student at **Sa
 
 ---
 
-## 🌊 心
+## 🌊
 
 > *「朝のリレー」*  
 >  
@@ -61,18 +61,16 @@ My name is Gianmaria Romano, and I am a third-year undergraduate student at **Sa
 
 ---
 
-## 🎼 音楽
+## 🎼
 
 <p align="center">
-  <a href="https://open.spotify.com/user/vkrikfnlp7acexrfphvjq3yio" target="_blank">
-    <img src="./spfc.png"
-         width="300"
-         alt="Spotify Profile" />
+  <a href="https://open.spotify.com/album/2HfY1kPSmmYfR13OSKYH5T?si=sWzc2o3pRCqsAvrYjCU3GA">
+    <img src="https://upload.wikimedia.org/wikipedia/en/4/4b/Kenshi_Yonezu_-_Lost_Corner.png" width="300">
   </a>
 </p>
 
 <p align="center">
-  🎧 <em>Pressed between days, music learns how to last.</em>
+  <em>さよーならまたいつか!</em>
 </p>
 
 ---
