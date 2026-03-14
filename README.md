@@ -65,12 +65,12 @@ My name is Gianmaria Romano, and I am a third-year undergraduate student at **Sa
 
 <p align="center">
   <a href="https://open.spotify.com/album/2HfY1kPSmmYfR13OSKYH5T?si=sWzc2o3pRCqsAvrYjCU3GA">
-    <img src="./pics/lost_corner.png" alt="Lost Corner" width="300">
+    <img src="./pics/makima.png" alt="Makima" width="300">
   </a>
 </p>
 
 <p align="center">
-  <em>さよーならまたいつか！</em>
+  <em>私は自分より程度が低いと思う者を支配できる力があります</em>
 </p>
 
 ---
