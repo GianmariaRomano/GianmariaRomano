@@ -61,7 +61,7 @@ My name is Gianmaria Romano, and I am a third-year undergraduate student at **Sa
 
 ---
 
-## 🎼
+## 🩸
 
 <p align="center">
   <a href="https://open.spotify.com/album/2HfY1kPSmmYfR13OSKYH5T?si=sWzc2o3pRCqsAvrYjCU3GA">
