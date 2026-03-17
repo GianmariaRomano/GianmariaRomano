@@ -68,7 +68,7 @@ My name is Gianmaria Romano, and I am a third-year undergraduate student at **Sa
 </p>
 
 <p align="center">
-  <em>私は自分より程度が低いと思う者を支配できる力があります</em>
+  <em> > 私は自分より程度が低いと思う者を支配できる力があります  </em>
 </p>
 
 ---
