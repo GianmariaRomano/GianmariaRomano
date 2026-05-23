@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <em> *What separates myths from reality? What separates man from monster? What separates you from me?* </em>
+  <em> What separates myths from reality? What separates man from monster? What separates you from me? </em>
 </p>
 
 ## Hi there!
