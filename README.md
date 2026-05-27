@@ -6,6 +6,8 @@
   <em> What separates myths from reality? What separates man from monster? What separates you from me? </em>
 </p>
 
+---
+
 ## Hi there!
 
 My name is Gianmaria Romano, and I am a third-year undergraduate student at **Sapienza Università di Roma**, currently pursuing a Bachelor's Degree in *Applied Computer Science and Artificial Intelligence*.
