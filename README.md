@@ -1,3 +1,5 @@
+---
+
 <p align="center">
   <img src="./pics/medusa.jpeg" alt="Medusa" width="400"/>
 </p>
@@ -79,6 +81,14 @@ My name is Gianmaria Romano, and I am a third-year undergraduate student at **Sa
 
 <p align="center">
   <em>私は自分より程度が低いと思う者を支配できる力があります</em>
+</p>
+
+---
+
+## 📽
+
+<p align="center">
+  <img src="./pics/chainsaw.gif" alt="Chainsaw" width="500">
 </p>
 
 ---
