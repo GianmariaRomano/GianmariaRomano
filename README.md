@@ -1,10 +1,10 @@
-<div style="text-align: center;">
-  <div style="background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); padding: 10px; display: inline-block; border-radius: 10px;">
+<p align="center">
+  <span style="background: linear-gradient(135deg, #0f2027, #203a43, #2c5364); padding: 10px; display: inline-block; border-radius: 10px;">
     <a href="https://spotify.com" target="_blank" rel="noopener noreferrer">
       <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=vkrikfnlp7acexrfphvjq3yio&theme=novatorem&show_offline=true&background_color=00000000" alt="Spotify Now Playing" style="display: block;" />
     </a>
-  </div>
-</div>
+  </span>
+</p>
 
 ---
 
