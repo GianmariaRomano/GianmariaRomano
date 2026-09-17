@@ -22,7 +22,7 @@
 
 ## Hi there!
 
-My name is Gianmaria Romano, and I am a third-year undergraduate student at **Sapienza Università di Roma**, currently pursuing a Bachelor's Degree in *Applied Computer Science and Artificial Intelligence*.
+My name is Gianmaria Romano, and I am a first-year graduate student at **Sapienza Università di Roma**, currently pursuing a Master's Degree in *Data Science* and awaiting the defense of my Bachelor's thesis in *Applied Computer Science and Artificial Intelligence*.
 
 ---
 
